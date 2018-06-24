@@ -1,0 +1,39 @@
+C:\Users\Andrzej\Desktop\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\bin\Debug\Gra_w_zycie(okienkowa).exe.config
+C:\Users\Andrzej\Desktop\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\bin\Debug\Gra_w_zycie(okienkowa).exe
+C:\Users\Andrzej\Desktop\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\bin\Debug\Gra_w_zycie(okienkowa).pdb
+C:\Users\Andrzej\Desktop\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie(okienkowa).csprojResolveAssemblyReference.cache
+C:\Users\Andrzej\Desktop\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie_okienkowa_.OknoGry.resources
+C:\Users\Andrzej\Desktop\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie_okienkowa_.Properties.Resources.resources
+C:\Users\Andrzej\Desktop\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie(okienkowa).csproj.GenerateResource.Cache
+C:\Users\Andrzej\Desktop\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie(okienkowa).csproj.CoreCompileInputs.cache
+C:\Users\Andrzej\Desktop\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie(okienkowa).exe
+C:\Users\Andrzej\Desktop\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie(okienkowa).pdb
+K:\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\bin\Debug\Gra_w_zycie(okienkowa).exe.config
+K:\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\bin\Debug\Gra_w_zycie(okienkowa).exe
+K:\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\bin\Debug\Gra_w_zycie(okienkowa).pdb
+K:\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie(okienkowa).csprojResolveAssemblyReference.cache
+K:\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie_okienkowa_.OknoGry.resources
+K:\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie_okienkowa_.Properties.Resources.resources
+K:\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie(okienkowa).csproj.GenerateResource.Cache
+K:\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie(okienkowa).csproj.CoreCompileInputs.cache
+K:\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie(okienkowa).exe
+K:\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie(okienkowa).pdb
+C:\Users\Andrzej\Desktop\Nowy folder (2)\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\bin\Debug\Gra_w_zycie(okienkowa).exe.config
+C:\Users\Andrzej\Desktop\Nowy folder (2)\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\bin\Debug\Gra_w_zycie(okienkowa).exe
+C:\Users\Andrzej\Desktop\Nowy folder (2)\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\bin\Debug\Gra_w_zycie(okienkowa).pdb
+C:\Users\Andrzej\Desktop\Nowy folder (2)\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie(okienkowa).csprojResolveAssemblyReference.cache
+C:\Users\Andrzej\Desktop\Nowy folder (2)\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie_okienkowa_.OknoGry.resources
+C:\Users\Andrzej\Desktop\Nowy folder (2)\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie_okienkowa_.Properties.Resources.resources
+C:\Users\Andrzej\Desktop\Nowy folder (2)\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie(okienkowa).csproj.GenerateResource.Cache
+C:\Users\Andrzej\Desktop\Nowy folder (2)\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie(okienkowa).csproj.CoreCompileInputs.cache
+C:\Users\Andrzej\Desktop\Nowy folder (2)\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie(okienkowa).exe
+C:\Users\Andrzej\Desktop\Nowy folder (2)\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie(okienkowa).pdb
+G:\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\bin\Debug\Gra_w_zycie(okienkowa).exe.config
+G:\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\bin\Debug\Gra_w_zycie(okienkowa).exe
+G:\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\bin\Debug\Gra_w_zycie(okienkowa).pdb
+G:\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie(okienkowa).csprojResolveAssemblyReference.cache
+G:\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie_okienkowa_.OknoGry.resources
+G:\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie_okienkowa_.Properties.Resources.resources
+G:\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie(okienkowa).csproj.GenerateResource.Cache
+G:\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie(okienkowa).exe
+G:\Gra_w_zycie(okienkowa)\Gra_w_zycie(okienkowa)\obj\Debug\Gra_w_zycie(okienkowa).pdb
